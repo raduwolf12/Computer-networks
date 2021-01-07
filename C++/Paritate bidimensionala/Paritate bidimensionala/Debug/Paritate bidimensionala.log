@@ -1,0 +1,10 @@
+﻿  Source.cpp
+E:\Ids\retele\C++\Paritate bidimensionala\Paritate bidimensionala\Source.cpp(11,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Paritate bidimensionala\Paritate bidimensionala\Source.cpp(30,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Paritate bidimensionala\Paritate bidimensionala\Source.cpp(32,21): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Paritate bidimensionala\Paritate bidimensionala\Source.cpp(44,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Paritate bidimensionala\Paritate bidimensionala\Source.cpp(46,21): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Paritate bidimensionala\Paritate bidimensionala\Source.cpp(61,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Paritate bidimensionala\Paritate bidimensionala\Source.cpp(94,22): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Paritate bidimensionala\Paritate bidimensionala\Source.cpp(112,22): warning C4018:  '<': signed/unsigned mismatch
+  Paritate bidimensionala.vcxproj -> E:\Ids\retele\C++\Paritate bidimensionala\Debug\Paritate bidimensionala.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\Ids\retele\C++\Transpozitie\Transpozitie\main.cpp(12,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Transpozitie\Transpozitie\main.cpp(33,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Transpozitie\Transpozitie\main.cpp(63,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Transpozitie\Transpozitie\main.cpp(80,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Transpozitie\Transpozitie\main.cpp(98,20): warning C4018:  '<': signed/unsigned mismatch
+E:\Ids\retele\C++\Transpozitie\Transpozitie\main.cpp(100,21): warning C4018:  '<': signed/unsigned mismatch
+  Transpozitie.vcxproj -> E:\Ids\retele\C++\Transpozitie\Debug\Transpozitie.exe
